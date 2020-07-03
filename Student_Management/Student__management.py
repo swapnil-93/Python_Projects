@@ -51,7 +51,7 @@ def Student():
         else:
             print("\n==> No record found of {}".format(search))     # if student is not present in the list
     elif(user == 4): # if value is 4 you can delete an existing student data
-        delete = input("Enter name of student you want to delete")  # enter name you want to delete
+        delete = input("Enter name of student you want to delete: ")  # enter name you want to delete
         if delete in std_list:      # check if name is in the list
             std_list.remove(delete) # if yes then delete the name using remove function
             print("\n==> Record of {} successfully deleted \n".format(delete))
