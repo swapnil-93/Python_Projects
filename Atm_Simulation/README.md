@@ -3,11 +3,11 @@
 * It has _PIN_
 * It has _Balance_
 
-** We can perform following operation using the program
+**We can perform following operation using the program
 * Read Statement
 * Withdraw Amount
 * Deposite Amount
 * Change PIN
 * Quit
 
-# Any suggestio for the program will be welcome.
+# Any suggestions for the program will be welcome.
