@@ -1,6 +1,7 @@
 # This is the list of Completed Project
-1. Student_Management 
-2. ATM_Management  
-3. Number_Guesing
+1. [Student_Management ](https://github.com/swapnil-93/Python_Projects/tree/master/Student_Management)
+2. [ATM_Management  ](https://github.com/swapnil-93/Python_Projects/tree/master/Atm_Simulation)
+3. [Number_Guesing](https://github.com/swapnil-93/Python_Projects/tree/master/Number_Guessing)
 4. [Age Calculator GUI using Tkinter](https://github.com/swapnil-93/Python_Projects/tree/master/Age_Calculator)
-5. Loan EMI Calculator GUI using Tkinter
+5. [Loan EMI Calculator GUI using Tkinter](https://github.com/swapnil-93/Python_Projects/tree/master/Loan_EMI_Calculator)
+
