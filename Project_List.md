@@ -5,4 +5,5 @@
 4. [Age Calculator GUI using Tkinter](https://github.com/swapnil-93/Python_Projects/tree/master/Age_Calculator)
 5. [Loan EMI Calculator GUI using Tkinter](https://github.com/swapnil-93/Python_Projects/tree/master/Loan_EMI_Calculator)
 6. [Screen_Shot_Application](https://github.com/swapnil-93/Python_Projects/tree/master/Screen_Shot_Application)
-
+7. [Password_Generator](https://github.com/swapnil-93/Python_Projects/tree/master/Password_generator)
+8. [Email_Sender](https://github.com/swapnil-93/Python_Projects/tree/master/Email_Sender)
