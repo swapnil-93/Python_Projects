@@ -8,7 +8,7 @@ _To use smtp service you have to make changes to your gmail account_
 3. Turn ON "allow less secure apps".
 
 _If you don't want to make your main gmail less secure, or if you don't already have gmail, then sign up for a new gmail solely for this purpose._
-### Email_Sender 
+### Email_Sender [email_sender](https://github.com/swapnil-93/Python_Projects/blob/master/Email_Sender/email_sender.py)
 
 * In this project we have created a simple program to send email
 * We have used smtp protocol and module to send email.
@@ -18,11 +18,11 @@ _If you don't want to make your main gmail less secure, or if you don't already 
 * Enter email id of the receiver
 * Enter message you want to send
 
-### Multipart_email
+### Multipart_email [Multipart_email](https://github.com/swapnil-93/Python_Projects/blob/master/Email_Sender/Multipart_email.py)
 * To add the small details for email such as `From`, `To`, `Subject` we have to include a new package i.e. `MIMEMultipart` and `MIMEText`
 * For more detail about `MSMEMultipart` and `MIMEText` go to [docs](https://docs.python.org/3.8/library/email.mime.html)
 
-### Email_Attachment
+### Email_Attachment [Email_Attachment](https://github.com/swapnil-93/Python_Projects/blob/master/Email_Sender/Email_Attachment.py)
 _To add attachment we have to use libraries as shown in program._
 
 **Steps to Send Mail with attachments using SMTP (smtplib)**
