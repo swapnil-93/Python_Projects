@@ -9,3 +9,4 @@
 8. [Email_Sender](https://github.com/swapnil-93/Python_Projects/tree/master/Email_Sender)
 9. [COVID-19 India Updater](https://github.com/swapnil-93/Python_Projects/tree/master/COVID-19%20Updater)
 10. [Optical Character Recognition](https://github.com/swapnil-93/Python_Projects/tree/master/Optical_Character_Recognition)
+11. [Text to Speech](https://github.com/swapnil-93/Python_Projects/tree/master/Text_to_Speech)
