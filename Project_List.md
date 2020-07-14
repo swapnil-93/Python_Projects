@@ -8,3 +8,4 @@
 7. [Password_Generator](https://github.com/swapnil-93/Python_Projects/tree/master/Password_generator)
 8. [Email_Sender](https://github.com/swapnil-93/Python_Projects/tree/master/Email_Sender)
 9. [COVID-19 India Updater](https://github.com/swapnil-93/Python_Projects/tree/master/COVID-19%20Updater)
+10. [Optical Character Recognition](https://github.com/swapnil-93/Python_Projects/tree/master/Optical_Character_Recognition)
