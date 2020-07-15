@@ -4,7 +4,7 @@ _In this project we have created a personal assistant which will respond you bas
 
 ** I have created two program for personal assistance one will take text as an Input and another will take speech as an input**
 
-## personal_assistant:
+## [personal_assistant](https://github.com/swapnil-93/Python_Projects/blob/master/Personal_Assistance/personal_assistant.py):
 * I have created a simple assistant system in which we provide text as an input to the progarm.
 * We imported following packages for our program to execute properly
     * `pyttsx3` This package is used for converting text to speech
@@ -15,7 +15,7 @@ _In this project we have created a personal assistant which will respond you bas
 * We created a time function to get current time
 * Finally we created a function which will read the input that will be search in wikipedia and we will get the results in form of speech.
 
-## pa_with_voice_command:
+## [pa_with_voice_command](https://github.com/swapnil-93/Python_Projects/blob/master/Personal_Assistance/pa_with_voice_command.py):
 * This is a next step for our personal assistant which will take the input in speech convert it to text process it and again convert the output into speech
 * for this we have imported all packages from our previous program and added one more package to it
     * `speech_recognition` for reading the speech input and process it.
