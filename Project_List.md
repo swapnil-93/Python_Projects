@@ -11,3 +11,5 @@
 10. [Optical Character Recognition](https://github.com/swapnil-93/Python_Projects/tree/master/Optical_Character_Recognition)
 11. [Text to Speech](https://github.com/swapnil-93/Python_Projects/tree/master/Text_to_Speech)
 12. [Personal_Assistant](https://github.com/swapnil-93/Python_Projects/tree/master/Personal_Assistance)
+12. [Speech_to_Text](https://github.com/swapnil-93/Python_Projects/tree/master/Speech_to_Text)
+13. [Image_Capture](https://github.com/swapnil-93/Python_Projects/tree/master/Image_Capture)
