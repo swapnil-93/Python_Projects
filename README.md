@@ -10,4 +10,6 @@ after going through this projects you will learn
 * Python I/O operations
 * Using Python Modules
 * Optical Character Recognitions
+* Image Processing
 * Use of API
+* Web Scrapping
