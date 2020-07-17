@@ -13,3 +13,4 @@
 12. [Personal_Assistant](https://github.com/swapnil-93/Python_Projects/tree/master/Personal_Assistance)
 12. [Speech_to_Text](https://github.com/swapnil-93/Python_Projects/tree/master/Speech_to_Text)
 13. [Image_Capture](https://github.com/swapnil-93/Python_Projects/tree/master/Image_Capture)
+14. [Face_Detection](https://github.com/swapnil-93/Python_Projects/tree/master/Face_Detection)
